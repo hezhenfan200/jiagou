@@ -2,3 +2,5 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.bin filter=lfs diff=lfs merge=lfs -text
 第二版-系统架构设计师-案例分析总复习资料.pdf filter=lfs diff=lfs merge=lfs -text
+【带搜索】系统架构设计师第二版.pdf filter=lfs diff=lfs merge=lfs -text
+系统架构第二版-大纲.pdf filter=lfs diff=lfs merge=lfs -text
